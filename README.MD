@@ -67,7 +67,6 @@
 
     - The cookie doesn't contain any details about the user.
 
----
 
 ---
 
